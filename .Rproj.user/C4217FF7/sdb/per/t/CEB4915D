@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"stat443 report\"\nauthor: \"Brian J Park\"\ndate: \"September 26, 2017\"\noutput: html_document\n---\n\n```{r setup, include=FALSE}\nknitr::opts_chunk$set(echo = TRUE)\n```\n\n# Data Cleaning\n\n```{r}\nread.csv(\"./data-raw/Shanghai.csv\")\n```\n",
+    "created" : 1506477113482.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4210963170",
+    "id" : "CEB4915D",
+    "lastKnownWriteTime" : 1506477209,
+    "last_content_update" : 1506477209768,
+    "path" : "C:/Users/Brian J Park/stat443/stat443_report.Rmd",
+    "project_path" : "stat443_report.Rmd",
+    "properties" : {
+        "last_setup_crc32" : "3839881Fbb338d19",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

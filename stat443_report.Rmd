@@ -1,0 +1,16 @@
+---
+title: "stat443 report"
+author: "Brian J Park"
+date: "September 26, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Data Cleaning
+
+```{r}
+read.csv("./data-raw/Shanghai.csv")
+```
